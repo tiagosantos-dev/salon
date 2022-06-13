@@ -1,7 +1,7 @@
 # Java Adapter Example
 
 ## Overview
-The following repo contains examples for OpenFin's Java adapter..
+The following repo contains examples for OpenFin's Java adapter.
 
 ## Guidelines
 Run the example of connecting to OpenFin and creating applications
