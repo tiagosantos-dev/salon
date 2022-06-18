@@ -1,8 +1,8 @@
-package br.com.salon.domain.ports;
+package br.com.salon.domain.ports.out;
 
 import br.com.salon.domain.entities.Person;
 
-public interface PersonPortRepository {
+public interface PersonRepositoryPort {
 
     Person save(Person person);
 
